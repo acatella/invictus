@@ -1,3 +1,5 @@
+#Invictus
+
 Out of the night that covers me,
 Black as the pit From pole to pole,
 I thank whatever gods may be
@@ -15,5 +17,5 @@ Finds, and shall find, me unafraid.
 
 It matters not how strait the gate,
 How charged with punishments the scroll,
-I am the master of my fate:
-I am the captain of my soul.
+- I am the *master of my fate*:
+- I am the **captain of my _soul_**.
