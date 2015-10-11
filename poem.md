@@ -19,3 +19,6 @@ It matters not how strait the gate,
 How charged with punishments the scroll,
 - I am the *master of my fate*:
 - I am the **captain of my _soul_**.
+
+
+Poem borrowed from [wikipedia] (http://bit.ly/1PoxySS)
